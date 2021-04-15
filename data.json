@@ -1,0 +1,59 @@
+{
+    "br" : {
+        "labels" : {
+            "aboute_me": "Sobre mim",
+            "description": "Desenvolvedor Web",
+            "contact_me": "Contate-me",
+            "i_am": "Eu Sou ALLEX NOGUE",
+            "i_am2": "Eu sou um desenvolvedor web",
+            "about": "Autodidata em programação, sempre buscando novos conhecimentos na área de desenvolvimento para web e software, como programação front end e back end. - Conhecimentos sólidos em HTML5, CSS3. - Web responsivo com a metodologia mobile-first. Criação de aplicações Desktop em Delphi/Pascal C#. e no back-end POO com padrão MVC, Laravel, CakePHP, Codeigniter. Experiência com Arduino Uno R3, desenvolvimento de protótipos por hobbie.",
+            "resume": "Resumo",
+            "experience": "Experiência",
+            "experience_cta": "Mais de 5 anos de experiência como Desenvolvedor",
+            "education": "Educação",
+            "education_cta": "",
+            "skill": "Habilidades",
+            "skill_cta": "Com boas habilidades pessoais e profissionais",
+            "portfolio": "Meu Portfólio",
+            "blog": "Meu Blog",
+        },
+        "jobs":[
+            {
+                "title" : "Engenheiro de Software PHP",
+                "company" : "Ofertáculos",
+                "job_description": "Desenvolvimento e manutenção de software com Laravel",
+                "description" : "",
+                "entrance" : "08/2019",
+                "exit" : "10/2020"
+            },
+            {
+                "title" : "Desenvolvedor PHP",
+                "company" : "Grupo Ideal Trends",
+                "job_description": "Desenvolver Aplicações Web CakePHP e Laravel.",
+                "description" : "",
+                "entrance" : "09/2018",
+                "exit" : "06/2019"
+            },
+            {
+                "title" : "Desenvolvedor Delphi",
+                "company" : "F&F Etiquetas",
+                "job_description": "Manutenção em Micros, Programação Web/Sistemas Delphi 5/7, Analista de Sistema.",
+                "description" : "",
+                "entrance" : "04/2017",
+                "exit" : "09/2018"
+            },
+            {
+                "title" : "Atendente de Alimentos e Bebidas",
+                "company" : "Arcos Dourados Comércio de Alimentos Ltda",
+                "job_description": "Resposável pelo atendimento e montagem dos lanches no Mc Donald`s.",
+                "description" : "",
+                "entrance" : "08/2016",
+                "exit" : "03/2017"
+            }
+        ]
+    },
+    "en": {
+        
+    }
+        
+}
